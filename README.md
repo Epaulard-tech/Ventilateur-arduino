@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 // UTILISATION
 
-//démarre en off, Power pour allumer en mode continu de base
+//démarre en mode off, Power pour allumer en mode continu de base
 //MODES :  (accès avec fleches droites et gauches)
 //CONTINU : Est allumé non stop à puissance choisie (0 à 9)
 //AUTO : en route puissance max si température > 28 ou humidité > 70 %
